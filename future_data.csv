@@ -1,0 +1,601 @@
+Year,BEDROOMS,TOILETS,HOUSE_TYPE,LOCATION
+2025,4,5,TERRACED DUPLEX,Badagry
+2026,4,5,BUNGALOW,Agege
+2027,4,5,HOUSE,Ogba
+2028,4,5,MASSIONETTE,Sangotedo
+2029,5,5,detached duplex,Lekki
+2030,4,4,detached duplex,Ikorodu
+2025,4,5,apartment,Ajah
+2026,4,4,detached duplex,Yaba
+2027,3,4,MASSIONETTE,Amuwo Odofin
+2028,4,5,DETACHED DUPLEX,Ojota
+2029,4,5,apartment,Lekki
+2030,4,5,HOUSE,Isheri North
+2025,2,3,terraced duplex,Ojodu
+2026,1,1,TERRACED DUPLEX,Ilupeju
+2027,4,5,DETACHED DUPLEX,Isheri North
+2028,2,3,MASSIONETTE,Ketu
+2029,4,5,semi-detached bungalow,Ipaja
+2030,4,5,TERRACED BUNGALOW,Apapa
+2025,3,4,TERRACED BUNGALOW,Shomolu
+2026,3,4,HOUSE,Isolo
+2027,2,3,TERRACED DUPLEX,Gbagada
+2028,4,5,terraced bungalow,Gbagada
+2029,4,5,detached bungalow,Ikorodu
+2030,2,3,BUNGALOW,Ilupeju
+2025,2,2,semi-detached bungalow,Ojodu
+2026,3,4,terraced bungalow,Ogba
+2027,4,5,apartment,Surulere
+2028,2,2,detached duplex,Yaba
+2029,4,5,DETACHED DUPLEX,Shomolu
+2030,4,5,terraced bungalow,Ayobo
+2025,4,5,apartment,Akowonjo
+2026,3,4,semi-detached bungalow,Ikotun-Igando
+2027,3,3,BUNGALOW,other
+2028,3,3,APARTMENT,Ejigbo
+2029,4,4,MASSIONETTE,Maryland
+2030,4,5,APARTMENT,Ikorodu
+2025,4,5,MASSIONETTE,Isolo
+2026,4,4,TERRACED DUPLEX,Shomolu
+2027,6,5,HOUSE,Ayobo
+2028,3,3,terraced duplex,Alimosho
+2029,2,3,apartment,Ikoyi
+2030,4,5,TERRACED BUNGALOW,Ojodu
+2025,4,5,semi-detached bungalow,Egbeda
+2026,2,2,terraced duplex,Ogba
+2027,1,1,HOUSE,Ogudu
+2028,3,4,apartment,Ipaja
+2029,4,5,terraced duplex,Gbagada
+2030,4,5,detached bungalow,Ipaja
+2025,4,5,BUNGALOW,Abule Egba
+2026,4,5,TERRACED DUPLEX,Ojota
+2027,1,1,semi-detached duplex,Apapa
+2028,3,4,BUNGALOW,Alimosho
+2029,3,3,HOUSE,Ojodu
+2030,4,3,TERRACED DUPLEX,Magodo
+2025,4,5,BUNGALOW,Ikotun-Igando
+2026,3,3,HOUSE,Badagry
+2027,2,3,HOUSE,Alimosho
+2028,3,4,terraced bungalow,other
+2029,4,5,apartment,Ejigbo
+2030,4,5,terraced bungalow,Akowonjo
+2025,5,5,HOUSE,Ikorodu
+2026,4,5,DETACHED DUPLEX,Ikoyi
+2027,3,4,DETACHED DUPLEX,Ogudu
+2028,3,4,TERRACED BUNGALOW,Oshodi
+2029,4,5,TERRACED BUNGALOW,Ilupeju
+2030,4,5,semi-detached duplex,Shomolu
+2025,3,2,DETACHED BUNGALOW,Sangotedo
+2026,2,2,terraced duplex,Ikorodu
+2027,5,6,TERRACED DUPLEX,Ipaja
+2028,2,3,apartment,Ilupeju
+2029,4,5,TERRACED DUPLEX,Ogudu
+2030,3,4,DETACHED DUPLEX,Magodo
+2025,4,4,detached bungalow,Ilupeju
+2026,3,4,detached bungalow,Gbagada
+2027,3,4,terraced bungalow,Isolo
+2028,4,5,semi-detached duplex,Isolo
+2029,4,5,APARTMENT,Oshodi
+2030,4,5,MASSIONETTE,Isolo
+2025,5,5,apartment,Akowonjo
+2026,3,4,detached bungalow,Yaba
+2027,3,3,BUNGALOW,Maryland
+2028,4,4,MASSIONETTE,Abule Egba
+2029,4,5,TERRACED DUPLEX,Akowonjo
+2030,4,5,MASSIONETTE,Ikotun-Igando
+2025,4,5,terraced duplex,Gbagada
+2026,2,3,TERRACED BUNGALOW,Ago Palace-Okota
+2027,3,3,TERRACED BUNGALOW,Idimu
+2028,1,1,TERRACED BUNGALOW,Ojo
+2029,4,5,semi-detached bungalow,Apapa
+2030,4,5,BUNGALOW,Lekki
+2025,4,5,DETACHED BUNGALOW,Maryland
+2026,3,4,terraced duplex,Egbeda
+2027,4,5,semi-detached duplex,Shomolu
+2028,4,5,semi-detached bungalow,Alimosho
+2029,4,5,terraced duplex,Ojo
+2030,4,5,DETACHED DUPLEX,Alimosho
+2025,3,4,BUNGALOW,Agege
+2026,4,5,APARTMENT,Lekki
+2027,4,5,MASSIONETTE,Ketu
+2028,3,4,semi-detached duplex,Sangotedo
+2029,2,3,semi-detached duplex,Ikeja
+2030,2,3,HOUSE,Ipaja
+2025,4,5,HOUSE,Ogudu
+2026,4,5,APARTMENT,Gbagada
+2027,4,5,apartment,Ogudu
+2028,5,5,MASSIONETTE,Surulere
+2029,5,5,terraced duplex,Alimosho
+2030,4,5,TERRACED DUPLEX,Ketu
+2025,3,2,detached bungalow,Ojota
+2026,3,3,DETACHED DUPLEX,Gbagada
+2027,3,4,HOUSE,Egbeda
+2028,3,4,terraced duplex,Ketu
+2029,4,5,BUNGALOW,Isheri North
+2030,2,3,APARTMENT,Magodo
+2025,4,5,TERRACED BUNGALOW,Ilupeju
+2026,4,5,TERRACED DUPLEX,Ayobo
+2027,3,3,TERRACED DUPLEX,Ejigbo
+2028,4,5,TERRACED DUPLEX,Ago Palace-Okota
+2029,3,3,apartment,Ikoyi
+2030,3,4,terraced bungalow,Ketu
+2025,2,3,detached bungalow,Ejigbo
+2026,4,4,DETACHED BUNGALOW,Ikorodu
+2027,4,5,DETACHED BUNGALOW,Abule Egba
+2028,2,3,DETACHED BUNGALOW,Akowonjo
+2029,2,3,MASSIONETTE,Egbeda
+2030,4,5,BUNGALOW,Oshodi
+2025,4,5,DETACHED DUPLEX,Gbagada
+2026,4,5,TERRACED BUNGALOW,Ojo
+2027,4,5,apartment,Ogba
+2028,4,5,HOUSE,Lekki
+2029,4,5,APARTMENT,other
+2030,3,4,MASSIONETTE,Ojodu
+2025,2,3,semi-detached bungalow,Isolo
+2026,3,3,APARTMENT,other
+2027,5,6,DETACHED BUNGALOW,Alimosho
+2028,3,4,HOUSE,Badagry
+2029,3,4,detached duplex,Ikoyi
+2030,4,4,TERRACED BUNGALOW,Maryland
+2025,3,4,DETACHED BUNGALOW,Idimu
+2026,4,5,DETACHED DUPLEX,Maryland
+2027,5,5,MASSIONETTE,Ogudu
+2028,4,3,detached duplex,Shomolu
+2029,1,2,terraced bungalow,Ojodu
+2030,4,4,MASSIONETTE,Ikotun-Igando
+2025,2,3,HOUSE,Ajah
+2026,4,5,terraced bungalow,Amuwo Odofin
+2027,4,5,detached bungalow,Ikorodu
+2028,3,4,terraced duplex,Maryland
+2029,3,4,TERRACED BUNGALOW,Ojota
+2030,3,4,semi-detached duplex,Lekki
+2025,3,4,terraced bungalow,Ilupeju
+2026,4,5,detached duplex,Ojo
+2027,4,5,detached bungalow,Gbagada
+2028,4,4,MASSIONETTE,Ojota
+2029,4,5,DETACHED BUNGALOW,Ogba
+2030,5,6,semi-detached duplex,Idimu
+2025,3,4,semi-detached duplex,Ketu
+2026,5,6,terraced duplex,Maryland
+2027,3,4,APARTMENT,Amuwo Odofin
+2028,4,5,terraced duplex,Lagos Island
+2029,3,3,TERRACED DUPLEX,Ketu
+2030,4,4,apartment,other
+2025,3,4,detached duplex,Victoria Island
+2026,1,2,DETACHED DUPLEX,Victoria Island
+2027,3,3,BUNGALOW,Abule Egba
+2028,4,5,APARTMENT,Abule Egba
+2029,5,7,semi-detached duplex,Isolo
+2030,4,4,APARTMENT,Agege
+2025,3,4,semi-detached duplex,other
+2026,3,4,semi-detached bungalow,Magodo
+2027,4,5,MASSIONETTE,Ketu
+2028,4,5,BUNGALOW,Ikorodu
+2029,4,5,BUNGALOW,Victoria Island
+2030,3,4,semi-detached bungalow,Ketu
+2025,5,6,apartment,Magodo
+2026,4,5,APARTMENT,Gbagada
+2027,4,5,BUNGALOW,Akowonjo
+2028,2,3,TERRACED BUNGALOW,Ikotun-Igando
+2029,5,5,APARTMENT,Akowonjo
+2030,2,3,TERRACED BUNGALOW,Ogba
+2025,4,4,terraced duplex,Ojota
+2026,3,4,terraced bungalow,Maryland
+2027,3,3,apartment,Ago Palace-Okota
+2028,4,5,TERRACED DUPLEX,Apapa
+2029,3,4,apartment,Ojo
+2030,2,1,DETACHED BUNGALOW,Akowonjo
+2025,2,3,terraced bungalow,Victoria Island
+2026,4,5,TERRACED DUPLEX,Ikotun-Igando
+2027,5,6,MASSIONETTE,Egbeda
+2028,3,4,semi-detached bungalow,Magodo
+2029,2,2,semi-detached bungalow,Magodo
+2030,4,5,semi-detached duplex,Amuwo Odofin
+2025,4,5,semi-detached bungalow,Agege
+2026,5,5,MASSIONETTE,Maryland
+2027,4,5,DETACHED DUPLEX,Idimu
+2028,3,2,detached bungalow,Lekki
+2029,3,3,detached bungalow,Ojodu
+2030,5,6,detached duplex,Lagos Island
+2025,2,3,detached duplex,Maryland
+2026,4,5,MASSIONETTE,Maryland
+2027,3,4,terraced bungalow,Ejigbo
+2028,3,4,detached bungalow,Alimosho
+2029,4,5,APARTMENT,Akowonjo
+2030,3,3,DETACHED BUNGALOW,Ayobo
+2025,2,3,APARTMENT,Lekki
+2026,4,5,terraced bungalow,Ajah
+2027,3,3,BUNGALOW,Alimosho
+2028,6,7,APARTMENT,Shomolu
+2029,4,5,MASSIONETTE,Surulere
+2030,5,5,TERRACED BUNGALOW,Ojodu
+2025,3,3,DETACHED DUPLEX,Ikotun-Igando
+2026,4,5,terraced bungalow,Ikeja
+2027,4,5,semi-detached duplex,Abule Egba
+2028,2,3,apartment,Ojo
+2029,4,5,semi-detached duplex,Ogudu
+2030,3,3,semi-detached bungalow,Surulere
+2025,4,5,TERRACED DUPLEX,Yaba
+2026,3,3,MASSIONETTE,Egbeda
+2027,4,4,terraced duplex,Amuwo Odofin
+2028,4,5,apartment,Ikoyi
+2029,4,5,terraced bungalow,Ojota
+2030,3,4,detached duplex,Lekki
+2025,1,1,terraced bungalow,Victoria Island
+2026,4,6,APARTMENT,Egbeda
+2027,4,5,DETACHED DUPLEX,other
+2028,4,5,TERRACED BUNGALOW,Idimu
+2029,3,4,DETACHED BUNGALOW,Shomolu
+2030,4,4,terraced bungalow,Ikeja
+2025,2,3,terraced bungalow,Ojodu
+2026,4,5,HOUSE,other
+2027,3,4,MASSIONETTE,Ago Palace-Okota
+2028,4,5,TERRACED DUPLEX,Amuwo Odofin
+2029,2,3,semi-detached duplex,Ojo
+2030,4,5,semi-detached duplex,Ikorodu
+2025,3,4,semi-detached duplex,other
+2026,4,5,APARTMENT,Lekki
+2027,4,5,HOUSE,Ilupeju
+2028,4,5,HOUSE,Magodo
+2029,2,3,BUNGALOW,Ogba
+2030,3,4,terraced bungalow,Magodo
+2025,4,5,semi-detached bungalow,Egbeda
+2026,2,3,detached bungalow,Egbeda
+2027,2,3,DETACHED DUPLEX,Lekki
+2028,3,4,MASSIONETTE,Lagos Island
+2029,2,3,TERRACED BUNGALOW,Isheri North
+2030,3,4,terraced duplex,Badagry
+2025,4,5,semi-detached duplex,Apapa
+2026,4,5,terraced duplex,Ilupeju
+2027,2,3,MASSIONETTE,Ajah
+2028,3,4,apartment,Lagos Island
+2029,2,3,HOUSE,Ojodu
+2030,4,4,terraced duplex,Ikotun-Igando
+2025,4,5,BUNGALOW,Akowonjo
+2026,2,3,terraced bungalow,Apapa
+2027,3,3,terraced duplex,Amuwo Odofin
+2028,4,5,DETACHED BUNGALOW,Amuwo Odofin
+2029,2,3,BUNGALOW,Isolo
+2030,3,4,HOUSE,other
+2025,3,3,DETACHED DUPLEX,Ikeja
+2026,4,5,semi-detached bungalow,Gbagada
+2027,4,4,detached bungalow,Ogba
+2028,2,2,TERRACED BUNGALOW,Egbeda
+2029,2,3,apartment,Magodo
+2030,4,5,terraced duplex,Alimosho
+2025,2,3,TERRACED BUNGALOW,Ketu
+2026,3,3,DETACHED BUNGALOW,Ikeja
+2027,4,5,APARTMENT,Gbagada
+2028,3,2,TERRACED DUPLEX,Ago Palace-Okota
+2029,2,3,terraced bungalow,Ipaja
+2030,4,4,BUNGALOW,Ikorodu
+2025,5,5,DETACHED BUNGALOW,Lagos Island
+2026,4,5,terraced duplex,Maryland
+2027,1,2,terraced duplex,Lekki
+2028,2,3,apartment,Ikoyi
+2029,4,4,TERRACED BUNGALOW,Ayobo
+2030,4,5,apartment,Ajah
+2025,2,3,APARTMENT,Gbagada
+2026,5,5,detached bungalow,Idimu
+2027,3,4,TERRACED BUNGALOW,Ojota
+2028,2,3,terraced bungalow,Idimu
+2029,1,1,TERRACED BUNGALOW,Ago Palace-Okota
+2030,3,4,TERRACED DUPLEX,Ikeja
+2025,3,4,HOUSE,Abule Egba
+2026,3,3,TERRACED BUNGALOW,Victoria Island
+2027,3,4,BUNGALOW,Victoria Island
+2028,4,5,detached duplex,Idimu
+2029,4,5,semi-detached duplex,Sangotedo
+2030,2,3,DETACHED DUPLEX,Surulere
+2025,4,5,BUNGALOW,Surulere
+2026,3,4,HOUSE,Lekki
+2027,4,5,detached bungalow,Akowonjo
+2028,5,5,BUNGALOW,Ikotun-Igando
+2029,4,5,BUNGALOW,Ikoyi
+2030,4,4,TERRACED BUNGALOW,Amuwo Odofin
+2025,4,4,semi-detached duplex,Ilupeju
+2026,5,5,detached bungalow,Gbagada
+2027,3,3,TERRACED BUNGALOW,Idimu
+2028,4,5,detached bungalow,Ago Palace-Okota
+2029,4,5,terraced duplex,Ipaja
+2030,4,4,TERRACED BUNGALOW,Surulere
+2025,4,5,apartment,Ipaja
+2026,2,3,detached duplex,Ojodu
+2027,4,5,detached duplex,Maryland
+2028,3,4,detached bungalow,Badagry
+2029,4,5,detached duplex,Amuwo Odofin
+2030,4,5,TERRACED BUNGALOW,Ojodu
+2025,5,6,BUNGALOW,Badagry
+2026,4,5,DETACHED BUNGALOW,Egbeda
+2027,4,5,detached bungalow,Ojo
+2028,4,5,terraced bungalow,Ago Palace-Okota
+2029,4,5,apartment,Ogudu
+2030,4,5,semi-detached duplex,Ikotun-Igando
+2025,3,4,detached duplex,Ojodu
+2026,3,4,HOUSE,Badagry
+2027,3,4,semi-detached bungalow,Victoria Island
+2028,4,5,DETACHED BUNGALOW,other
+2029,4,4,BUNGALOW,other
+2030,4,5,terraced bungalow,Ojodu
+2025,4,4,apartment,Amuwo Odofin
+2026,2,2,detached duplex,Agege
+2027,1,1,apartment,Apapa
+2028,1,1,BUNGALOW,Yaba
+2029,3,3,DETACHED BUNGALOW,Ketu
+2030,3,4,semi-detached bungalow,Gbagada
+2025,4,5,semi-detached bungalow,Sangotedo
+2026,3,4,terraced duplex,Ejigbo
+2027,3,4,DETACHED BUNGALOW,Amuwo Odofin
+2028,3,3,TERRACED DUPLEX,Akowonjo
+2029,4,5,detached bungalow,Ketu
+2030,2,3,semi-detached bungalow,Ago Palace-Okota
+2025,3,4,APARTMENT,Ogba
+2026,4,5,detached duplex,Ogudu
+2027,4,5,semi-detached bungalow,Ayobo
+2028,2,2,DETACHED BUNGALOW,Ojo
+2029,3,4,HOUSE,Ago Palace-Okota
+2030,4,3,TERRACED DUPLEX,Isheri North
+2025,3,4,detached bungalow,Ikoyi
+2026,2,3,TERRACED DUPLEX,Lagos Island
+2027,3,4,MASSIONETTE,Ayobo
+2028,3,3,terraced duplex,Gbagada
+2029,3,4,semi-detached duplex,Oshodi
+2030,4,5,semi-detached bungalow,Ilupeju
+2025,6,4,APARTMENT,Apapa
+2026,3,3,detached bungalow,Amuwo Odofin
+2027,3,4,MASSIONETTE,Egbeda
+2028,4,3,BUNGALOW,Ago Palace-Okota
+2029,1,1,terraced duplex,Yaba
+2030,4,4,semi-detached bungalow,Maryland
+2025,4,5,terraced duplex,Agege
+2026,4,5,apartment,Apapa
+2027,2,3,semi-detached duplex,Ojo
+2028,4,5,semi-detached duplex,Agege
+2029,2,3,TERRACED BUNGALOW,other
+2030,4,5,HOUSE,Amuwo Odofin
+2025,4,5,HOUSE,Apapa
+2026,4,5,terraced duplex,Abule Egba
+2027,4,5,semi-detached duplex,Ojota
+2028,5,6,MASSIONETTE,Maryland
+2029,4,5,TERRACED BUNGALOW,Victoria Island
+2030,3,4,DETACHED BUNGALOW,other
+2025,4,5,semi-detached duplex,Ajah
+2026,3,3,DETACHED DUPLEX,Ejigbo
+2027,4,4,DETACHED DUPLEX,Ojodu
+2028,2,3,semi-detached duplex,Ikoyi
+2029,4,4,terraced bungalow,Ago Palace-Okota
+2030,4,5,MASSIONETTE,Akowonjo
+2025,3,4,MASSIONETTE,Ejigbo
+2026,4,5,semi-detached bungalow,Ketu
+2027,5,5,MASSIONETTE,Ikoyi
+2028,3,4,semi-detached bungalow,Ikoyi
+2029,4,4,terraced bungalow,Yaba
+2030,4,5,TERRACED DUPLEX,Ago Palace-Okota
+2025,3,4,TERRACED BUNGALOW,Oshodi
+2026,2,3,terraced bungalow,Ilupeju
+2027,3,4,APARTMENT,Lekki
+2028,4,5,DETACHED DUPLEX,Sangotedo
+2029,3,4,DETACHED BUNGALOW,Ikeja
+2030,2,3,APARTMENT,Ilupeju
+2025,4,5,semi-detached duplex,Ojota
+2026,4,5,semi-detached duplex,Amuwo Odofin
+2027,3,4,DETACHED DUPLEX,Agege
+2028,3,4,TERRACED DUPLEX,Magodo
+2029,3,4,DETACHED BUNGALOW,Lagos Island
+2030,3,3,terraced bungalow,Shomolu
+2025,3,4,detached bungalow,other
+2026,4,4,semi-detached bungalow,Lekki
+2027,3,4,TERRACED DUPLEX,Lekki
+2028,3,4,DETACHED DUPLEX,Ikoyi
+2029,5,6,detached duplex,Ojo
+2030,4,5,semi-detached bungalow,Ilupeju
+2025,3,3,terraced duplex,Magodo
+2026,3,4,DETACHED BUNGALOW,Ketu
+2027,4,4,terraced duplex,Ago Palace-Okota
+2028,4,5,semi-detached duplex,Ojota
+2029,2,2,HOUSE,Surulere
+2030,4,5,semi-detached duplex,Ogudu
+2025,2,3,detached duplex,Ejigbo
+2026,2,3,BUNGALOW,Gbagada
+2027,4,5,DETACHED DUPLEX,Ayobo
+2028,4,5,semi-detached bungalow,Ikorodu
+2029,4,5,APARTMENT,Ojodu
+2030,4,5,MASSIONETTE,Idimu
+2025,3,4,detached bungalow,Ikoyi
+2026,4,5,terraced duplex,Isolo
+2027,3,3,terraced duplex,Ogudu
+2028,4,5,DETACHED DUPLEX,Apapa
+2029,2,3,TERRACED BUNGALOW,Ejigbo
+2030,4,5,TERRACED BUNGALOW,Ipaja
+2025,4,5,terraced bungalow,Ogudu
+2026,5,4,DETACHED DUPLEX,Ejigbo
+2027,4,5,DETACHED BUNGALOW,Isolo
+2028,4,5,DETACHED DUPLEX,Agege
+2029,4,4,detached duplex,Shomolu
+2030,3,4,apartment,Ikorodu
+2025,3,4,BUNGALOW,Maryland
+2026,2,3,DETACHED DUPLEX,Yaba
+2027,3,4,terraced duplex,Sangotedo
+2028,3,4,detached bungalow,Victoria Island
+2029,4,5,MASSIONETTE,Ipaja
+2030,2,2,APARTMENT,Lekki
+2025,3,4,apartment,Ojo
+2026,4,5,APARTMENT,Surulere
+2027,4,4,MASSIONETTE,Ejigbo
+2028,4,5,HOUSE,Amuwo Odofin
+2029,5,5,APARTMENT,Amuwo Odofin
+2030,2,3,MASSIONETTE,Apapa
+2025,2,3,TERRACED DUPLEX,Abule Egba
+2026,2,3,semi-detached duplex,Apapa
+2027,4,5,apartment,other
+2028,4,5,HOUSE,Amuwo Odofin
+2029,4,5,terraced bungalow,Ejigbo
+2030,4,5,TERRACED DUPLEX,Surulere
+2025,5,6,DETACHED DUPLEX,Gbagada
+2026,5,5,DETACHED DUPLEX,Isheri North
+2027,3,3,apartment,Gbagada
+2028,4,5,DETACHED DUPLEX,Ikorodu
+2029,4,5,semi-detached bungalow,Ago Palace-Okota
+2030,4,5,semi-detached duplex,Ogba
+2025,2,3,semi-detached duplex,Isolo
+2026,4,5,semi-detached bungalow,Lekki
+2027,2,3,TERRACED DUPLEX,Ajah
+2028,4,4,DETACHED BUNGALOW,Alimosho
+2029,4,5,detached duplex,Ojo
+2030,4,5,terraced bungalow,Oshodi
+2025,4,5,DETACHED BUNGALOW,Shomolu
+2026,2,3,APARTMENT,Alimosho
+2027,4,5,TERRACED DUPLEX,Magodo
+2028,3,2,HOUSE,Oshodi
+2029,1,1,semi-detached bungalow,Ikorodu
+2030,4,5,APARTMENT,Ikoyi
+2025,3,4,TERRACED BUNGALOW,Magodo
+2026,4,4,semi-detached bungalow,Ikeja
+2027,4,4,semi-detached bungalow,Ogba
+2028,4,5,DETACHED BUNGALOW,Ikotun-Igando
+2029,4,5,detached bungalow,Ikotun-Igando
+2030,5,5,semi-detached duplex,Gbagada
+2025,3,4,semi-detached duplex,Yaba
+2026,4,5,detached duplex,Ajah
+2027,3,4,detached bungalow,Yaba
+2028,3,4,detached bungalow,Idimu
+2029,4,5,MASSIONETTE,Ajah
+2030,3,4,APARTMENT,Lagos Island
+2025,4,5,DETACHED BUNGALOW,Alimosho
+2026,2,3,semi-detached bungalow,Ago Palace-Okota
+2027,4,4,TERRACED BUNGALOW,Agege
+2028,2,3,apartment,Ipaja
+2029,3,4,TERRACED BUNGALOW,Lagos Island
+2030,3,4,semi-detached duplex,Ipaja
+2025,2,2,HOUSE,Amuwo Odofin
+2026,3,3,TERRACED DUPLEX,Ikoyi
+2027,4,5,DETACHED DUPLEX,Ikorodu
+2028,6,5,TERRACED BUNGALOW,Ketu
+2029,4,5,terraced bungalow,Ojo
+2030,1,1,terraced duplex,Yaba
+2025,4,5,detached duplex,Shomolu
+2026,4,5,terraced duplex,Ogba
+2027,4,5,MASSIONETTE,Idimu
+2028,3,4,TERRACED DUPLEX,Ago Palace-Okota
+2029,5,5,DETACHED DUPLEX,Shomolu
+2030,4,4,apartment,Magodo
+2025,4,4,terraced duplex,Ipaja
+2026,4,5,apartment,Agege
+2027,3,4,terraced bungalow,Oshodi
+2028,4,5,HOUSE,Egbeda
+2029,3,3,APARTMENT,Oshodi
+2030,4,5,APARTMENT,Ojota
+2025,4,5,terraced bungalow,Yaba
+2026,4,4,detached duplex,Badagry
+2027,4,5,DETACHED BUNGALOW,Ikotun-Igando
+2028,3,3,semi-detached bungalow,Idimu
+2029,3,4,detached bungalow,Ejigbo
+2030,3,4,semi-detached duplex,Oshodi
+2025,4,5,terraced duplex,Ilupeju
+2026,3,4,DETACHED DUPLEX,Lagos Island
+2027,4,4,detached bungalow,Shomolu
+2028,2,3,TERRACED DUPLEX,Ejigbo
+2029,4,5,terraced bungalow,Ajah
+2030,2,3,HOUSE,Victoria Island
+2025,4,5,apartment,Idimu
+2026,4,4,HOUSE,Gbagada
+2027,2,3,detached duplex,Abule Egba
+2028,4,5,MASSIONETTE,Amuwo Odofin
+2029,4,5,apartment,Ejigbo
+2030,2,3,TERRACED DUPLEX,Ikoyi
+2025,2,2,TERRACED DUPLEX,Sangotedo
+2026,4,5,semi-detached bungalow,Akowonjo
+2027,2,3,DETACHED BUNGALOW,Apapa
+2028,2,3,TERRACED BUNGALOW,Ajah
+2029,3,4,TERRACED BUNGALOW,other
+2030,2,3,DETACHED BUNGALOW,Isolo
+2025,3,4,apartment,Isolo
+2026,3,3,MASSIONETTE,Sangotedo
+2027,4,5,terraced bungalow,Maryland
+2028,4,5,apartment,Ikeja
+2029,2,3,TERRACED DUPLEX,Abule Egba
+2030,4,5,MASSIONETTE,Sangotedo
+2025,3,4,BUNGALOW,Isolo
+2026,4,5,DETACHED BUNGALOW,Ikotun-Igando
+2027,4,5,HOUSE,Ikeja
+2028,3,4,APARTMENT,Egbeda
+2029,3,4,DETACHED BUNGALOW,Ojo
+2030,4,5,detached bungalow,Ogudu
+2025,3,2,TERRACED BUNGALOW,Ojodu
+2026,2,2,DETACHED BUNGALOW,Ago Palace-Okota
+2027,5,5,terraced duplex,Ikotun-Igando
+2028,4,5,APARTMENT,Isolo
+2029,2,3,detached duplex,Ajah
+2030,4,5,TERRACED DUPLEX,Apapa
+2025,3,4,apartment,Ogba
+2026,3,3,MASSIONETTE,Lekki
+2027,2,3,APARTMENT,Idimu
+2028,4,5,DETACHED DUPLEX,Ikotun-Igando
+2029,3,4,MASSIONETTE,Surulere
+2030,2,3,APARTMENT,Maryland
+2025,4,5,semi-detached bungalow,Sangotedo
+2026,4,5,MASSIONETTE,Abule Egba
+2027,4,4,HOUSE,Ejigbo
+2028,4,5,semi-detached duplex,Ketu
+2029,3,3,TERRACED BUNGALOW,Ago Palace-Okota
+2030,3,4,detached duplex,Lekki
+2025,2,3,TERRACED DUPLEX,Magodo
+2026,2,3,BUNGALOW,Gbagada
+2027,4,5,detached duplex,Shomolu
+2028,4,5,detached duplex,Ikeja
+2029,4,5,terraced duplex,Ipaja
+2030,2,3,apartment,Akowonjo
+2025,2,2,semi-detached bungalow,Maryland
+2026,3,4,TERRACED BUNGALOW,Ejigbo
+2027,4,5,semi-detached duplex,Oshodi
+2028,4,5,DETACHED BUNGALOW,Ajah
+2029,3,4,detached duplex,Ojodu
+2030,4,5,DETACHED DUPLEX,Magodo
+2025,4,5,BUNGALOW,Alimosho
+2026,3,4,DETACHED DUPLEX,Lekki
+2027,2,3,detached duplex,Ikorodu
+2028,5,6,terraced bungalow,Ketu
+2029,4,5,BUNGALOW,Gbagada
+2030,2,2,BUNGALOW,Abule Egba
+2025,4,5,detached duplex,Ayobo
+2026,3,4,terraced duplex,Ojota
+2027,2,3,terraced duplex,Ikorodu
+2028,4,5,terraced bungalow,Ayobo
+2029,2,2,DETACHED DUPLEX,Yaba
+2030,4,5,HOUSE,Ikorodu
+2025,2,3,DETACHED BUNGALOW,Egbeda
+2026,4,5,apartment,Ogba
+2027,3,4,detached duplex,Maryland
+2028,3,4,DETACHED BUNGALOW,Agege
+2029,4,5,terraced duplex,Ayobo
+2030,4,5,apartment,Amuwo Odofin
+2025,3,4,TERRACED BUNGALOW,Ikoyi
+2026,4,5,detached bungalow,Ogudu
+2027,4,5,detached duplex,Badagry
+2028,4,5,DETACHED BUNGALOW,Agege
+2029,2,1,semi-detached duplex,Amuwo Odofin
+2030,3,4,HOUSE,Badagry
+2025,5,5,semi-detached bungalow,Ojo
+2026,3,4,MASSIONETTE,Ajah
+2027,3,4,MASSIONETTE,Maryland
+2028,4,4,HOUSE,Magodo
+2029,2,2,detached duplex,Ikotun-Igando
+2030,4,5,HOUSE,Sangotedo
+2025,3,3,MASSIONETTE,Maryland
+2026,5,6,DETACHED DUPLEX,Abule Egba
+2027,4,5,terraced bungalow,Ilupeju
+2028,4,4,TERRACED BUNGALOW,Shomolu
+2029,4,4,semi-detached bungalow,Ojota
+2030,4,5,DETACHED BUNGALOW,Ikeja
+2025,4,5,HOUSE,Ojo
+2026,4,5,TERRACED DUPLEX,Oshodi
+2027,4,5,BUNGALOW,Akowonjo
+2028,4,5,semi-detached bungalow,Ikotun-Igando
+2029,4,5,apartment,Idimu
+2030,4,5,terraced bungalow,Ejigbo
+2025,3,4,detached duplex,Alimosho
+2026,3,4,semi-detached bungalow,Agege
+2027,4,5,semi-detached bungalow,Magodo
+2028,3,4,semi-detached bungalow,Maryland
+2029,2,3,APARTMENT,Ikorodu
+2030,3,4,DETACHED BUNGALOW,Ikoyi
